@@ -1,5 +1,5 @@
 Internet
-   ↓
+  ↓
 ALB Security Group
 vs-vpc-alb-sg allow HTTP from 0.0.0.0/0
    ↓
